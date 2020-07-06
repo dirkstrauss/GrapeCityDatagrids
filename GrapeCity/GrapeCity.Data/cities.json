@@ -1,0 +1,785 @@
+[
+  {
+    "Id": 1,
+    "CityName": "johannesburg",
+    "AccentCity": "Johannesburg",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.205171,
+    "Longitude": 28.049815
+
+  },
+
+  {
+    "Id": 2,
+    "CityName": "Guadalajara",
+    "AccentCity": "Tlaquepaque",
+    "ProvinceName": "Jalisco",
+    "Latitude": 79.38415,
+    "Longitude": -65.66584
+  },
+  {
+    "Id": 3,
+    "CityName": "Haripur",
+    "AccentCity": "Mansehra",
+    "ProvinceName": "KhyberPakhtoonkhwa",
+    "Latitude": 50.10782,
+    "Longitude": -164.60256
+  },
+  {
+    "Id": 4,
+    "CityName": "Yeotmal",
+    "AccentCity": "Gondiya",
+    "ProvinceName": "Maharastra",
+    "Latitude": 28.64791,
+    "Longitude": -151.98341
+  },
+  {
+    "Id": 5,
+    "CityName": "Tokoroa",
+    "AccentCity": "Wanganui",
+    "ProvinceName": "NorthIsland",
+    "Latitude": -0.04676,
+    "Longitude": 165.22449
+  },
+  {
+    "Id": 6,
+    "CityName": "Bulnes",
+    "AccentCity": "Antuco",
+    "ProvinceName": "VII",
+    "Latitude": 65.94936,
+    "Longitude": -113.2057
+  },
+  {
+    "Id": 7,
+    "CityName": "Nagar",
+    "AccentCity": "Skardu",
+    "ProvinceName": "GilgitBaltistan",
+    "Latitude": -13.89583,
+    "Longitude": 95.62755
+  },
+  {
+    "Id": 8,
+    "CityName": "Sosnowiec",
+    "AccentCity": "Czestochowa",
+    "ProvinceName": "SL",
+    "Latitude": -78.11736,
+    "Longitude": -116.21433
+  },
+  {
+    "Id": 9,
+    "CityName": "Kursk",
+    "AccentCity": "Kursk",
+    "ProvinceName": "KurskOblast",
+    "Latitude": -88.93705,
+    "Longitude": -109.70608
+  },
+  {
+    "Id": 10,
+    "CityName": "Serang",
+    "AccentCity": "Serang",
+    "ProvinceName": "Banten",
+    "Latitude": 49.60483,
+    "Longitude": 172.74338
+  },
+  {
+    "Id": 12,
+    "CityName": "Llanquihue",
+    "AccentCity": "Maullin",
+    "ProvinceName": "X",
+    "Latitude": -71.86443,
+    "Longitude": 5.22978
+  },
+  {
+    "Id": 13,
+    "CityName": "Duisburg",
+    "AccentCity": "Essen",
+    "ProvinceName": "NW",
+    "Latitude": -58.42492,
+    "Longitude": 95.77043
+  },
+  {
+    "Id": 14,
+    "CityName": "Lagos",
+    "AccentCity": "Lagos",
+    "ProvinceName": "Lagos",
+    "Latitude": -3.6382,
+    "Longitude": -73.41476
+  },
+  {
+    "Id": 15,
+    "CityName": "Sechura",
+    "AccentCity": "Chulucanas",
+    "ProvinceName": "PIU",
+    "Latitude": -3.98837,
+    "Longitude": 30.33171
+  },
+  {
+    "Id": 16,
+    "CityName": "Kollam",
+    "AccentCity": "Cochin",
+    "ProvinceName": "KL",
+    "Latitude": -84.0308,
+    "Longitude": -140.44817
+  },
+  {
+    "Id": 17,
+    "CityName": "Tula",
+    "AccentCity": "Tula",
+    "ProvinceName": "TulaOblast",
+    "Latitude": 12.15681,
+    "Longitude": -122.26934
+  },
+  {
+    "Id": 18,
+    "CityName": "Etobicoke",
+    "AccentCity": "Newmarket",
+    "ProvinceName": "ON",
+    "Latitude": 66.09452,
+    "Longitude": -52.17042
+  },
+  {
+    "Id": 19,
+    "CityName": "Chuncheon",
+    "AccentCity": "Gangneung",
+    "ProvinceName": "Gan",
+    "Latitude": 65.37139,
+    "Longitude": -72.80794
+  },
+  {
+    "Id": 21,
+    "CityName": "Laramie",
+    "AccentCity": "Casper",
+    "ProvinceName": "WY",
+    "Latitude": 71.56432,
+    "Longitude": 179.37425
+  },
+  {
+    "Id": 22,
+    "CityName": "Saint-Honor",
+    "AccentCity": "Deschambault",
+    "ProvinceName": "QC",
+    "Latitude": 17.02143,
+    "Longitude": 13.22417
+  },
+  {
+    "Id": 23,
+    "CityName": "Vienna",
+    "AccentCity": "Vienna",
+    "ProvinceName": "Wie",
+    "Latitude": 6.17027,
+    "Longitude": 161.71422
+  },
+  {
+    "Id": 24,
+    "CityName": "Bussolengo",
+    "AccentCity": "Feltre",
+    "ProvinceName": "VEN",
+    "Latitude": 19.90409,
+    "Longitude": 59.92898
+  },
+  {
+    "Id": 25,
+    "CityName": "Katowice",
+    "AccentCity": "Czestochowa",
+    "ProvinceName": "Slaskie",
+    "Latitude": 44.51709,
+    "Longitude": 127.49172
+  },
+  {
+    "Id": 26,
+    "CityName": "Tyumen",
+    "AccentCity": "Tyumen",
+    "ProvinceName": "TYU",
+    "Latitude": -47.66102,
+    "Longitude": 26.962
+  },
+  {
+    "Id": 27,
+    "CityName": "Los Mochis",
+    "AccentCity": "Los Mochis",
+    "ProvinceName": "Sinaloa",
+    "Latitude": 46.88185,
+    "Longitude": -50.27238
+  },
+  {
+    "Id": 28,
+    "CityName": "Jaen",
+    "AccentCity": "Cajamarca",
+    "ProvinceName": "CAJ",
+    "Latitude": 88.38813,
+    "Longitude": -141.43213
+  },
+  {
+    "Id": 29,
+    "CityName": "San Pablo",
+    "AccentCity": "San Pablo",
+    "ProvinceName": "Heredia",
+    "Latitude": -52.46321,
+    "Longitude": -136.01334
+  },
+  {
+    "Id": 31,
+    "CityName": "Hartford",
+    "AccentCity": "Stamford",
+    "ProvinceName": "CT",
+    "Latitude": 68.91868,
+    "Longitude": -92.05919
+  },
+  {
+    "Id": 32,
+    "CityName": "Nassjo",
+    "AccentCity": "Varnamo",
+    "ProvinceName": "F",
+    "Latitude": 64.00539,
+    "Longitude": -72.91483
+  },
+  {
+    "Id": 33,
+    "CityName": "Chilpancingo",
+    "AccentCity": "Acapulco",
+    "ProvinceName": "Gro",
+    "Latitude": 37.21344,
+    "Longitude": 113.4872
+  },
+  {
+    "Id": 34,
+    "CityName": "Irkutsk",
+    "AccentCity": "Irkutsk",
+    "ProvinceName": "IrkutskOblast",
+    "Latitude": 4.91622,
+    "Longitude": -67.67606
+  },
+  {
+    "Id": 35,
+    "CityName": "Aurora",
+    "AccentCity": "Welland",
+    "ProvinceName": "ON",
+    "Latitude": -53.95192,
+    "Longitude": 48.91928
+  },
+  {
+    "Id": 36,
+    "CityName": "Mojokerto",
+    "AccentCity": "Probolinggo",
+    "ProvinceName": "EastJava",
+    "Latitude": 2.27088,
+    "Longitude": -75.5504
+  },
+  {
+    "Id": 37,
+    "CityName": "Berlin",
+    "AccentCity": "Berlin",
+    "ProvinceName": "BE",
+    "Latitude": -32.57328,
+    "Longitude": 122.83875
+  },
+  {
+    "Id": 38,
+    "CityName": "Tiltil",
+    "AccentCity": "Santiago",
+    "ProvinceName": "RM",
+    "Latitude": 9.71697,
+    "Longitude": 8.17713
+  },
+  {
+    "Id": 39,
+    "CityName": "Bremen",
+    "AccentCity": "Bremerhaven",
+    "ProvinceName": "HB",
+    "Latitude": 14.97921,
+    "Longitude": 76.84907
+  },
+  {
+    "Id": 40,
+    "CityName": "Ambleside",
+    "AccentCity": "Appleby",
+    "ProvinceName": "Westmorland",
+    "Latitude": 34.60081,
+    "Longitude": -127.90442
+  },
+  {
+    "Id": 41,
+    "CityName": "Hamburg",
+    "AccentCity": "Hamburg",
+    "ProvinceName": "HH",
+    "Latitude": -53.86415,
+    "Longitude": 168.5588
+  },
+  {
+    "Id": 42,
+    "CityName": "Divinopolis",
+    "AccentCity": "Betim",
+    "ProvinceName": "MinasGerais",
+    "Latitude": 22.23317,
+    "Longitude": -33.89832
+  },
+  {
+    "Id": 43,
+    "CityName": "Amstelveen",
+    "AccentCity": "Heerhugowaard",
+    "ProvinceName": "N",
+    "Latitude": -33.56223,
+    "Longitude": 178.61387
+  },
+  {
+    "Id": 44,
+    "CityName": "Metairie",
+    "AccentCity": "Shreveport",
+    "ProvinceName": "LA",
+    "Latitude": -0.76248,
+    "Longitude": 148.08013
+  },
+  {
+    "Id": 45,
+    "CityName": "Blitar",
+    "AccentCity": "Batu",
+    "ProvinceName": "JI",
+    "Latitude": -78.41534,
+    "Longitude": -152.84242
+  },
+  {
+    "Id": 46,
+    "CityName": "Muzaffarpur",
+    "AccentCity": "Patna",
+    "ProvinceName": "Bihar",
+    "Latitude": -30.07651,
+    "Longitude": 102.16645
+  },
+  {
+    "Id": 47,
+    "CityName": "Mglin",
+    "AccentCity": "Trubchevsk",
+    "ProvinceName": "BRY",
+    "Latitude": -9.27238,
+    "Longitude": 35.96337
+  },
+  {
+    "Id": 48,
+    "CityName": "Reus",
+    "AccentCity": "Barcelona",
+    "ProvinceName": "CA",
+    "Latitude": -76.75697,
+    "Longitude": -7.69888
+  },
+  {
+    "Id": 49,
+    "CityName": "Dir",
+    "AccentCity": "Lakki Marwat",
+    "ProvinceName": "KhyberPakhtoonkhwa",
+    "Latitude": 15.90756,
+    "Longitude": 163.56616
+  },
+  {
+    "Id": 50,
+    "CityName": "Montague",
+    "AccentCity": "Stratford",
+    "ProvinceName": "PE",
+    "Latitude": 19.48129,
+    "Longitude": 160.0516
+  },
+  {
+    "Id": 52,
+    "CityName": "Vienna",
+    "AccentCity": "Vienna",
+    "ProvinceName": "Vienna",
+    "Latitude": -66.68081,
+    "Longitude": -104.73267
+  },
+  {
+    "Id": 53,
+    "CityName": "Rocky View",
+    "AccentCity": "Bearberry",
+    "ProvinceName": "Alberta",
+    "Latitude": -53.24102,
+    "Longitude": 63.30449
+  },
+  {
+    "Id": 54,
+    "CityName": "Berlin",
+    "AccentCity": "Berlin",
+    "ProvinceName": "BE",
+    "Latitude": 53.00876,
+    "Longitude": 152.85308
+  },
+  {
+    "Id": 56,
+    "CityName": "Kirov",
+    "AccentCity": "Kirov",
+    "ProvinceName": "KIR",
+    "Latitude": 52.0412,
+    "Longitude": 150.43144
+  },
+  {
+    "Id": 57,
+    "CityName": "Moe",
+    "AccentCity": "Geelong",
+    "ProvinceName": "VIC",
+    "Latitude": -10.07576,
+    "Longitude": 24.10255
+  },
+  {
+    "Id": 58,
+    "CityName": "Iquitos",
+    "AccentCity": "Iquitos",
+    "ProvinceName": "Loreto",
+    "Latitude": 34.16173,
+    "Longitude": 116.76784
+  },
+  {
+    "Id": 59,
+    "CityName": "Gujranwala",
+    "AccentCity": "Ghotki",
+    "ProvinceName": "Punjab",
+    "Latitude": -75.00715,
+    "Longitude": 131.96252
+  },
+  {
+    "Id": 60,
+    "CityName": "Owen Sound",
+    "AccentCity": "Scarborough",
+    "ProvinceName": "ON",
+    "Latitude": -84.65194,
+    "Longitude": -139.71275
+  },
+  {
+    "Id": 61,
+    "CityName": "Sale",
+    "AccentCity": "Dandenong",
+    "ProvinceName": "Victoria",
+    "Latitude": 21.00807,
+    "Longitude": 12.89105
+  },
+  {
+    "Id": 62,
+    "CityName": "Cerchio",
+    "AccentCity": "Manoppello",
+    "ProvinceName": "ABR",
+    "Latitude": 81.61708,
+    "Longitude": 112.65289
+  },
+  {
+    "Id": 63,
+    "CityName": "Busan",
+    "AccentCity": "Changwon",
+    "ProvinceName": "SouthGyeongsang",
+    "Latitude": 33.22135,
+    "Longitude": 103.87313
+  },
+  {
+    "Id": 64,
+    "CityName": "Torun",
+    "AccentCity": "Torun",
+    "ProvinceName": "Kujawskopomorskie",
+    "Latitude": 10.19815,
+    "Longitude": -118.4252
+  },
+  {
+    "Id": 65,
+    "CityName": "Orilla",
+    "AccentCity": "Kitchener",
+    "ProvinceName": "ON",
+    "Latitude": 30.83443,
+    "Longitude": 109.65498
+  },
+  {
+    "Id": 66,
+    "CityName": "Serrungarina",
+    "AccentCity": "Acquasanta Terme",
+    "ProvinceName": "MAR",
+    "Latitude": 47.53199,
+    "Longitude": 40.84314
+  },
+  {
+    "Id": 67,
+    "CityName": "Juneau",
+    "AccentCity": "College",
+    "ProvinceName": "AK",
+    "Latitude": -64.18222,
+    "Longitude": -141.72159
+  },
+  {
+    "Id": 68,
+    "CityName": "Banda Aceh",
+    "AccentCity": "Banda Aceh",
+    "ProvinceName": "Aceh",
+    "Latitude": 85.40127,
+    "Longitude": 78.92627
+  },
+  {
+    "Id": 69,
+    "CityName": "Dutse",
+    "AccentCity": "Dutse",
+    "ProvinceName": "JI",
+    "Latitude": 75.92212,
+    "Longitude": -42.81572
+  },
+  {
+    "Id": 71,
+    "CityName": "Huancayo",
+    "AccentCity": "Tarma",
+    "ProvinceName": "Junin",
+    "Latitude": -82.70059,
+    "Longitude": -85.71604
+  },
+  {
+    "Id": 72,
+    "CityName": "Aurillac",
+    "AccentCity": "Clermont-Ferrand",
+    "ProvinceName": "AU",
+    "Latitude": 66.4134,
+    "Longitude": -157.84493
+  },
+  {
+    "Id": 73,
+    "CityName": "Sutton",
+    "AccentCity": "Woking",
+    "ProvinceName": "Surrey",
+    "Latitude": 67.84677,
+    "Longitude": -78.27025
+  },
+  {
+    "Id": 74,
+    "CityName": "Snezhinsk",
+    "AccentCity": "Katav-Ivanovsk",
+    "ProvinceName": "CHE",
+    "Latitude": -37.93379,
+    "Longitude": 110.63162
+  },
+  {
+    "Id": 75,
+    "CityName": "Sherbrooke",
+    "AccentCity": "Saint-Laurent",
+    "ProvinceName": "Quebec",
+    "Latitude": -50.75864,
+    "Longitude": -165.83269
+  },
+  {
+    "Id": 76,
+    "CityName": "Gatchina",
+    "AccentCity": "Ivangorod",
+    "ProvinceName": "LeningradOblast",
+    "Latitude": 8.49689,
+    "Longitude": -28.58119
+  },
+  {
+    "Id": 77,
+    "CityName": "Trois-Rivieres",
+    "AccentCity": "Sherbrooke",
+    "ProvinceName": "Quebec",
+    "Latitude": 83.57028,
+    "Longitude": -55.46585
+  },
+  {
+    "Id": 78,
+    "CityName": "Deschambault",
+    "AccentCity": "Saint-Georges",
+    "ProvinceName": "Quebec",
+    "Latitude": -75.52387,
+    "Longitude": -85.34334
+  },
+  {
+    "Id": 79,
+    "CityName": "Gunsan",
+    "AccentCity": "Gunsan",
+    "ProvinceName": "Jeo",
+    "Latitude": -34.59856,
+    "Longitude": -173.249
+  },
+  {
+    "Id": 80,
+    "CityName": "Kotli",
+    "AccentCity": "Mirpur",
+    "ProvinceName": "AK",
+    "Latitude": 44.09769,
+    "Longitude": -26.28614
+  },
+  {
+    "Id": 81,
+    "CityName": "Penza",
+    "AccentCity": "Penza",
+    "ProvinceName": "PNZ",
+    "Latitude": 38.41753,
+    "Longitude": -38.76695
+  },
+  {
+    "Id": 82,
+    "CityName": "Senneville",
+    "AccentCity": "Alma",
+    "ProvinceName": "QC",
+    "Latitude": 81.689,
+    "Longitude": 0.73871
+  },
+  {
+    "Id": 83,
+    "CityName": "Rionegro",
+    "AccentCity": "Itagui",
+    "ProvinceName": "Antioquia",
+    "Latitude": 60.61318,
+    "Longitude": 56.8739
+  },
+  {
+    "Id": 84,
+    "CityName": "Banda Aceh",
+    "AccentCity": "Banda Aceh",
+    "ProvinceName": "AC",
+    "Latitude": 60.25064,
+    "Longitude": -179.80775
+  },
+  {
+    "Id": 85,
+    "CityName": "Dublin",
+    "AccentCity": "Dublin",
+    "ProvinceName": "Leinster",
+    "Latitude": -69.10237,
+    "Longitude": 140.60503
+  },
+  {
+    "Id": 87,
+    "CityName": "Gliwice",
+    "AccentCity": "Katowice",
+    "ProvinceName": "SL",
+    "Latitude": -10.9912,
+    "Longitude": -103.65754
+  },
+  {
+    "Id": 89,
+    "CityName": "Huaral",
+    "AccentCity": "San Vicente de Canete",
+    "ProvinceName": "Lima",
+    "Latitude": -35.85189,
+    "Longitude": -145.84703
+  },
+  {
+    "Id": 90,
+    "CityName": "Dannevirke",
+    "AccentCity": "Waitakere",
+    "ProvinceName": "NorthIsland",
+    "Latitude": 79.1701,
+    "Longitude": 169.43622
+  },
+  {
+    "Id": 91,
+    "CityName": "Ankara",
+    "AccentCity": "Kizilcahamam",
+    "ProvinceName": "Ankara",
+    "Latitude": -23.22759,
+    "Longitude": -44.82303
+  },
+  {
+    "Id": 92,
+    "CityName": "Lakewood",
+    "AccentCity": "Fort Collins",
+    "ProvinceName": "Colorado",
+    "Latitude": -22.63803,
+    "Longitude": 2.74706
+  },
+  {
+    "Id": 93,
+    "CityName": "Mielec",
+    "AccentCity": "Stalowa Wola",
+    "ProvinceName": "Podkarpackie",
+    "Latitude": 43.64283,
+    "Longitude": 137.53626
+  },
+  {
+    "Id": 94,
+    "CityName": "Moe",
+    "AccentCity": "Mildura",
+    "ProvinceName": "VIC",
+    "Latitude": 81.08902,
+    "Longitude": -6.18345
+  },
+  {
+    "Id": 95,
+    "CityName": "Dublin",
+    "AccentCity": "Dublin",
+    "ProvinceName": "L",
+    "Latitude": -18.63524,
+    "Longitude": 115.48312
+  },
+  {
+    "Id": 96,
+    "CityName": "Vienna",
+    "AccentCity": "Vienna",
+    "ProvinceName": "Vienna",
+    "Latitude": 80.53151,
+    "Longitude": -26.74815
+  },
+  {
+    "Id": 97,
+    "CityName": "Melipilla",
+    "AccentCity": "Cerrillos",
+    "ProvinceName": "RM",
+    "Latitude": -55.45985,
+    "Longitude": -160.76786
+  },
+  {
+    "Id": 98,
+    "CityName": "Sutton",
+    "AccentCity": "Wandsworth",
+    "ProvinceName": "SR",
+    "Latitude": -50.57059,
+    "Longitude": -79.18855
+  },
+  {
+    "Id": 99,
+    "CityName": "Goderich",
+    "AccentCity": "Ottawa-Carleton",
+    "ProvinceName": "ON",
+    "Latitude": -77.43283,
+    "Longitude": 37.27234
+  },
+  {
+    "Id": 100,
+    "CityName": "Vienna",
+    "AccentCity": "Vienna",
+    "ProvinceName": "Vienna",
+    "Latitude": 34.78597,
+    "Longitude": -9.67724
+  },
+  {
+    "Id": 101,
+    "CityName": "cape town",
+    "AccentCity": "Cape Town",
+    "ProvinceName": "WesternCape",
+    "Latitude": -33.925839,
+    "Longitude": 18.423218
+
+  },
+  {
+    "Id": 102,
+    "CityName": "port elizabeth",
+    "AccentCity": "Port Elizabeth",
+    "ProvinceName": "EasternCape",
+    "Latitude": -33.917988,
+    "Longitude": 25.570066
+
+  },
+  {
+    "Id": 103,
+    "CityName": "durban",
+    "AccentCity": "Durban",
+    "ProvinceName": "KwaZuluNatal",
+    "Latitude": -29.857896,
+    "Longitude": 31.029198
+
+  },
+  {
+    "Id": 104,
+    "CityName": "richards bay",
+    "AccentCity": "Richards Bay",
+    "ProvinceName": "KwaZuluNatal",
+    "Latitude": -28.775417,
+    "Longitude": 32.054005
+
+  },
+  {
+    "Id": 105,
+    "CityName": "bloemfontein",
+    "AccentCity": "Bloemfontein",
+    "ProvinceName": "FreeState",
+    "Latitude": -29.121065,
+    "Longitude": 26.214003
+
+  }
+]
